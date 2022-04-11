@@ -1,5 +1,5 @@
 # Medical Data Visualizer
-Demos: [Replit](https://replit.com/@AlisterBaroi/boilerplate-medical-data-visualizer) [Colab]()
+Demos: [Replit](https://replit.com/@AlisterBaroi/boilerplate-medical-data-visualizer) [Colab](https://colab.research.google.com/github/AlisterBaroi/medical-data-visualizer/blob/main/Colab%20Demo/medical_data_visualizer_(freeCodeCamp_Assignment).ipynb)
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
