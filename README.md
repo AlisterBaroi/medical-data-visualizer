@@ -1,4 +1,4 @@
-# Medical Data Visualizer
+# Medical Data Visualizer (freeCodeCamp Assignment)
 Demos: [Replit](https://replit.com/@AlisterBaroi/boilerplate-medical-data-visualizer) [Colab](https://colab.research.google.com/github/AlisterBaroi/medical-data-visualizer/blob/main/Colab%20Demo/medical_data_visualizer_(freeCodeCamp_Assignment).ipynb)
 ### Assignment
 
